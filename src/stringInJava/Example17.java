@@ -21,13 +21,13 @@ public class Example17 {
                 System.out.println("sub:" + (a-b));
                 break;
             case 3:
-                System.out.println("multiplication: + (a*b");
+                System.out.println("multiplication: " + (a*b));
                 break;
             case 4:
-                System.out.println("division: + (a/b)");
+                System.out.println("division:" + (a/b));
                 break;
             case 5:
-                System.out.println("modulus: + (a%b)");
+                System.out.println("modulus:" + (a%b));
                 break;
             default:
                     System.out.println("Invalid key");

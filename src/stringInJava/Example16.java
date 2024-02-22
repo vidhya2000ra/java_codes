@@ -4,7 +4,7 @@ public class Example16 {
     public static void main(String[]args){
         Scanner input= new Scanner(System.in);
         System.out.print("Enter a number day");
-        int day = input.nextInt();
+        int r = input.nextInt();
         int x= 3;
         switch (x){
             case 1:
@@ -28,7 +28,7 @@ public class Example16 {
             case 7:
                 System.out.println("Sun");
             default:
-                System.out.println("Common Day");
+                System.out.println("Invalid Day");
                 break;
         }
     }

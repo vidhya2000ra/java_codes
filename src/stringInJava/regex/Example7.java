@@ -13,6 +13,8 @@ public class Example7 {
 
         result = str2.matches("[abc][vz]");
         System.out.println(result);
+
+
         result = str2.matches("[123][76]");//true
         System.out.println(result);
 

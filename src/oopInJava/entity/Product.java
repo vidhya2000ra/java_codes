@@ -30,7 +30,7 @@ public class Product {
         return avgRating;
     }
 
-    //set method value string
+    //set method value void
     public void setProductId( ){
         this.productId= productId;
     }

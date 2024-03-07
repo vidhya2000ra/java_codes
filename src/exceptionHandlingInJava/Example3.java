@@ -5,7 +5,6 @@ public class Example3 {
         int A[] = {30,2,10,40,0};
 
         try{
-
             try{
                 int c = A[0] / A[1];
                 System.out.println("Division is " + c);

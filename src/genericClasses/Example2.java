@@ -11,6 +11,7 @@ class MyGeneric<T>{
 
     void display(){
         System.out.println(t1 + "....." + t2);
+
     }
 }
 
